@@ -10,7 +10,8 @@ body {
 .contenedor {
     background-color: gray;
     width: auto;
-    border: 10px solid black;
+    border: 5px solid black;
+    margin: 10px;
 }
 
 body h1 {
