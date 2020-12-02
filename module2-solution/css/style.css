@@ -9,6 +9,8 @@ body {
 
 .contenedor {
     background-color: gray;
+    width: auto;
+    border: 10px solid black;
 }
 
 body h1 {
