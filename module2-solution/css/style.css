@@ -2,8 +2,17 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: ivory;
+}
+
+.contenedor {
+    background-color: gray;
+}
+
 body h1 {
     size: 75%;
-    color: darkolivegreen;
+    color: darkorange;
     text-align: center;
 }
