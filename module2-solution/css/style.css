@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-h1 {
+body h1 {
     size: 75%;
     color: darkolivegreen;
     text-align: center;
